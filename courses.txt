@@ -1,0 +1,15 @@
+C1,Math,30
+C2,English,50
+C3,Physics,50
+C4,Chemistry,61
+C5,Biology,40
+C6,History,44
+C7,Geography,34
+C8,Computer Science,48
+C9,Economics,40
+C10,Psychology,30
+C11,Sociology,25
+C12,Philosophy,19
+C13,Political Science,29
+C14,Statistics,49
+C40,saif,79
